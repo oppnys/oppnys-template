@@ -1,0 +1,13 @@
+{
+  "name": "oppnys-template-vue2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "oppnys",
+    "template",
+    "vue"
+  ],
+  "author": "oppnys",
+  "license": "ISC"
+}
