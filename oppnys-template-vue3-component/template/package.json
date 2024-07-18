@@ -1,8 +1,9 @@
 {
-  "name": "template",
-  "version": "1.0.0",
+  "name": "<%= className %>",
+  "version": "<%= version %>",
   "private": true,
   "type": "module",
+  "description": "<%= description %>",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
